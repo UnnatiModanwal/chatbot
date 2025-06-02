@@ -8,6 +8,3 @@ This repository contains an interactive FAQ chatbot built in Python. It uses bas
 - **Easy to Extend**: Add or modify question–answer pairs in the `faq` dictionary.
 - **Interactive CLI**: Runs in the terminal, prompts the user to type a question, and prints back the best available response.
 
-## Project Structure
-
-
